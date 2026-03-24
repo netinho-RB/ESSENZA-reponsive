@@ -45,4 +45,15 @@ O projeto foi construído utilizando as melhores práticas de front-end:
 
 1. Clone o repositório:
    ```bash
+
    git clone [https://github.com/netinho-RB/ESSENZA-responsive.git](https://github.com/netinho-RB/ESSENZA-responsive.git)
+
+
+   
+## 👤 Autor
+
+
+Desenvolvido com ☕ e muito código por **Neto**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/netinho-RB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK)
